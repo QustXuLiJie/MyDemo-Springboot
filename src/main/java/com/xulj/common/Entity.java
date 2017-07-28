@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * @Author xulj
- * @Description:
+ * @Description: 实体基类
  * @Date: Created in 14:13 2017/7/28.
  */
 public class Entity implements Serializable {
